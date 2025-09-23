@@ -16,4 +16,4 @@
 - Expanding knowledge in biotechnology & computational biology  
 - Open to **internships** in AI, data science, or health tech  
 
-📫 Reach me at: [LinkedIn](#Havvanur Rana Çelebi) | [Email](#hranacelebi2019@gmail.com)
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/havvanur-rana-%C3%A7-00baa8296/) | [Email](#hranacelebi2019@gmail.com)
