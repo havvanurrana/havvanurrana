@@ -6,10 +6,9 @@
 🚀 Projects include [Genutrition](https://github.com/havvanurrana/genutrition) – an AI-based microbiota analysis app.  
 
 ### Technologies & Tools
-- Python (TensorFlow, PyTorch, Scikit-learn, Pandas)
+- Python (TensorFlow, Scikit-learn, Pandas)
 - SQL, Excel for data analysis
 - Git & GitHub  
-- Image processing, NLP basics
 
 ### Goals
 - Applying AI in healthcare & genetics  
