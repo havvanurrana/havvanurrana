@@ -3,7 +3,7 @@
 🔬 Interested in **health technologies**, especially genetics & microbiota.  
 🤖 Working on **artificial intelligence projects** in fields like NLP, computer vision, and biology.  
 🌱 Currently learning deep learning methods for biomedical data.  
-🚀 Projects include [Genutrition](https://github.com/havvanurrana/genutrition) – an AI-based microbiota analysis app.  
+🚀 Projects include [Genutrition](https://github.com/havvanurrana/genutrition-new-codes) – an AI-based microbiota analysis app.  
 
 ### Technologies & Tools
 - Python (TensorFlow, Scikit-learn, Pandas)
